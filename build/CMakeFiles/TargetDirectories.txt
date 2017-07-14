@@ -1,0 +1,5 @@
+/home/apple/work/cmake_tutorial/build/CMakeFiles/edit_cache.dir
+/home/apple/work/cmake_tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/apple/work/cmake_tutorial/build/src/CMakeFiles/rebuild_cache.dir
+/home/apple/work/cmake_tutorial/build/src/CMakeFiles/edit_cache.dir
+/home/apple/work/cmake_tutorial/build/src/CMakeFiles/main.dir
